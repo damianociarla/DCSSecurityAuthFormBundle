@@ -1,0 +1,19 @@
+{
+  "name": "dcs/security-auth-form-bundle",
+  "type": "symfony-bundle",
+  "description": "The DCSSecurityAuthFormBundle provides an authentication system using the login form",
+  "require": {
+    "php": ">=5.3.9",
+    "dcs/security-core-bundle": "~1.0@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "DCS\\Security\\Auth\\FormBundle\\": "src"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
