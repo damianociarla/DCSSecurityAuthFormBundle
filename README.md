@@ -1,6 +1,6 @@
 # DCSSecurityAuthFormBundle
 
-This bundle provides an authentication system using the **login form**.
+This bundle provides a **login form** for the DCSSecurityCoreBundle.
 
 The DCSSecurityAuthFormBundle uses the `dcs_security.core.authentication.provider` service to implement a custom security firewall called **dcs_form**.
 
