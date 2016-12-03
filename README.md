@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/damianociarla/DCSSecurityAuthFormBundle.svg?branch=master)](https://travis-ci.org/damianociarla/DCSSecurityAuthFormBundle) 
+[![Coverage Status](https://coveralls.io/repos/github/damianociarla/DCSSecurityAuthFormBundle/badge.svg?branch=master)](https://coveralls.io/github/damianociarla/DCSSecurityAuthFormBundle?branch=master)
+
 # DCSSecurityAuthFormBundle
 
 This bundle provides a **login form** for the DCSSecurityCoreBundle.
