@@ -2,7 +2,7 @@
   "name": "dcs/security-auth-form-bundle",
   "type": "symfony-bundle",
   "description": "The DCSSecurityAuthFormBundle provides an authentication system using the login form",
-  "keywords": ["Security","Form","Login"],
+  "keywords": ["Security","Form","Login","DCS"],
   "license": "MIT",
   "authors": [
     {
